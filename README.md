@@ -1,4 +1,4 @@
-#Open CV tutorial second episode
+# Open CV tutorial second episode
 - Image representation 
 - Values representing pixel color
 - Accessing pixel and specified range of pixels
